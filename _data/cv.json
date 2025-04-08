@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Avinash Kumar",
+    "email": "kumaravinashsw44@gmail.com",
+    "phone": "+8210-2133-9123",
+    "website": "https://kumaravinash44.github.io",
+    "summary": "Currently employed at System Software Lab Soongsil University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Seoul",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
