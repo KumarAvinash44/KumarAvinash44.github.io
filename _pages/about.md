@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hi, I'm Abdul 
+# 👋 Hi, I'm Avinash Kumar 
 
 [Education](#education) |
 [Research Interests](#research) |
