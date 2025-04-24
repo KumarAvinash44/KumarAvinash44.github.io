@@ -170,3 +170,15 @@ body {
     }
   }
   
+  .tech-badges .badge {
+    background-color: #d0ebff; /* soft sky-blue */
+    color: #ffffff;
+    font-weight: 500;
+    margin: 3px;
+    padding: 8px 12px;
+    font-size: 0.85rem;
+    border-radius: 20px;
+  }
+  
+
+  
