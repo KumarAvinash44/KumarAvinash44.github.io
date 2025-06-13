@@ -189,3 +189,29 @@ body {
   .text-justify {
     text-align: justify;
   }
+
+.btn-primary {
+    background-color: #fff;
+    color: #0077B5;
+    border: 2px solid #0077B5;
+    font-weight: 500;
+    transition: background 0.15s, color 0.15s, border 0.15s;
+}
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #0077B5;
+    color: #fff;
+    border-color: #0077B5;
+}
+
+.btn-outline-primary, .btn-sm.btn-outline-primary {
+    background-color: #fff;
+    color: #0077B5;
+    border: 2px solid #0077B5;
+    font-weight: 500;
+    transition: background 0.15s, color 0.15s, border 0.15s;
+}
+.btn-outline-primary:hover, .btn-outline-primary:focus, .btn-sm.btn-outline-primary:hover, .btn-sm.btn-outline-primary:focus {
+    background-color: #0077B5;
+    color: #fff;
+    border-color: #0077B5;
+}
