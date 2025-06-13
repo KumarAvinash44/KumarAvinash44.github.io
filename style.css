@@ -17,6 +17,8 @@ body {
 
 .hero {
     padding: 100px 0;
+    background: #0077B5;
+    color: #fff;
 }
 
 .profile-img {
