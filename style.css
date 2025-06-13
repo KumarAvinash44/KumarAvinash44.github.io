@@ -1,6 +1,6 @@
 :root {
     --primary-color: #2c3e50;
-    --secondary-color: #3498db;
+    --secondary-color: #0077B5;
 }
 
 body {
@@ -62,9 +62,13 @@ body {
 
 /* New Styles */
 .tech-badges .badge {
-    background-color: #e9ecef;
-    color: #2c3e50;
+    background-color: #0077B5; /* LinkedIn blue */
+    color: #ffffff !important;
     font-weight: 500;
+    margin: 3px;
+    padding: 8px 12px;
+    font-size: 0.85rem;
+    border-radius: 20px;
 }
 
 .project-impact {
@@ -153,14 +157,14 @@ body {
   .bar-fill {
     height: 100%;
     line-height: 22px;
-    background: linear-gradient(90deg, #1976d2 60%, #64b5f6 100%);
+    background: linear-gradient(90deg, #0077B5 60%, #00A0DC 100%);
     color: #fff;
     font-size: 14px;
     font-weight: 600;
     padding-left: 12px;
     border-radius: 12px 0 0 12px;
     transition: width 0.6s cubic-bezier(.4,0,.2,1);
-    box-shadow: 0 2px 6px rgba(25, 118, 210, 0.08);
+    box-shadow: 0 2px 6px rgba(0, 119, 181, 0.08);
   }
   
   @media (max-width: 900px) {
